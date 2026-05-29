@@ -9,7 +9,7 @@
 I write code. Mostly JavaScript, but I'll reach for whatever gets the job done —
 Java for Minecraft plugins, Lua for game scripting, SQL when data needs structure.
 
-I've shipped websites, Discord bots, and full Minecraft game server ecosystems.
+I've shipped websites, Discord bots, and full Minecraft servers.
 I like owning the whole thing — design, backend, database, server config.
 
 <br/>
