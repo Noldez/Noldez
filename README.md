@@ -83,5 +83,6 @@ I like owning the whole thing.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Noldez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![Top Langs](https://test-noldezs-projects.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
