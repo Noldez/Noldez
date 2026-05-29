@@ -16,9 +16,6 @@ I like owning the whole thing - design, backend, database, server config.
 
 <br/>
 
-<marquee behavior="scroll" direction="left" scrollamount="8"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="18"/> &nbsp; javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; next.js &nbsp;·&nbsp; node.js &nbsp;·&nbsp; java &nbsp;·&nbsp; lua &nbsp;·&nbsp; fivem &nbsp;·&nbsp; minecraft &nbsp;·&nbsp; discord bots &nbsp;·&nbsp; linux &nbsp;·&nbsp; cybersec &nbsp;·&nbsp; redis &nbsp;·&nbsp; mongodb &nbsp;·&nbsp; docker &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18"/> &nbsp; javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; next.js &nbsp;·&nbsp; node.js &nbsp;·&nbsp; java &nbsp;·&nbsp; lua &nbsp;·&nbsp; fivem &nbsp;·&nbsp; minecraft &nbsp;·&nbsp; discord bots &nbsp;·&nbsp; linux &nbsp;·&nbsp; cybersec &nbsp;·&nbsp; redis &nbsp;·&nbsp; mongodb &nbsp;·&nbsp; docker &nbsp;</marquee>
-
-<br/>
 
 [![Top Langs](https://test-three-orpin-83.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
