@@ -103,9 +103,6 @@ I like owning the whole thing - design, backend, database, server config.
 
 <div align="center">
 
-<img src="./sakura.svg" width="100%"/>
-
-![snake](https://raw.githubusercontent.com/Noldez/Noldez/output/github-contribution-grid-snake-dark.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:6c00a9,100:0d0d1a&height=120&section=footer)
 
