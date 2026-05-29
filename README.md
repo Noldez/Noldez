@@ -51,6 +51,17 @@ I like owning the whole thing — design, backend, database, server config.
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+### Cybersecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-4D4D4D?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333333?style=flat-square&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
+
 ### Discord & Minecraft
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -65,6 +76,7 @@ I like owning the whole thing — design, backend, database, server config.
 - **Discord bots** — economy systems, moderation, role automation, API integrations
 - **Minecraft plugins** — custom game mechanics, NPC systems, quest engines, economy plugins
 - **Server infra** — self-hosted Linux servers, reverse proxies, networking, VPNs, domain routing
+- **Cybersecurity** — network recon, web app pentesting, password cracking, CTFs
 
 ---
 
