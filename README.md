@@ -16,7 +16,7 @@ I like owning the whole thing - design, backend, database, server config.
 
 <br/>
 
-<marquee behavior="scroll" direction="left" scrollamount="8">🌸 &nbsp; javascript &nbsp; · &nbsp; typescript &nbsp; · &nbsp; next.js &nbsp; · &nbsp; node.js &nbsp; · &nbsp; java &nbsp; · &nbsp; lua &nbsp; · &nbsp; fivem &nbsp; · &nbsp; minecraft &nbsp; · &nbsp; discord bots &nbsp; · &nbsp; linux &nbsp; · &nbsp; cybersec &nbsp; · &nbsp; redis &nbsp; · &nbsp; mongodb &nbsp; · &nbsp; docker &nbsp; &nbsp; 🌸</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="8"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="18"/> &nbsp; javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; next.js &nbsp;·&nbsp; node.js &nbsp;·&nbsp; java &nbsp;·&nbsp; lua &nbsp;·&nbsp; fivem &nbsp;·&nbsp; minecraft &nbsp;·&nbsp; discord bots &nbsp;·&nbsp; linux &nbsp;·&nbsp; cybersec &nbsp;·&nbsp; redis &nbsp;·&nbsp; mongodb &nbsp;·&nbsp; docker &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18"/> &nbsp; javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; next.js &nbsp;·&nbsp; node.js &nbsp;·&nbsp; java &nbsp;·&nbsp; lua &nbsp;·&nbsp; fivem &nbsp;·&nbsp; minecraft &nbsp;·&nbsp; discord bots &nbsp;·&nbsp; linux &nbsp;·&nbsp; cybersec &nbsp;·&nbsp; redis &nbsp;·&nbsp; mongodb &nbsp;·&nbsp; docker &nbsp;</marquee>
 
 <br/>
 
@@ -28,7 +28,7 @@ I like owning the whole thing - design, backend, database, server config.
 
 ---
 
-### ⚔️ Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="25"/> Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,20 +37,20 @@ I like owning the whole thing - design, backend, database, server config.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="25"/> Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" width="25"/> Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🗄️ Databases
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Paper%20Lantern.png" width="25"/> Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,7 +58,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛡️ Infrastructure & Sysadmin
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="25"/> Infrastructure & Sysadmin
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -77,7 +77,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Cron](https://img.shields.io/badge/Cron%20%2F%20systemd-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### 🔓 Cybersecurity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="25"/> Cybersecurity
 
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -87,7 +87,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Hydra](https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
 
-### 🎮 Discord · Minecraft · FiveM
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="25"/> Discord · Minecraft · FiveM
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Paper-ED8106?style=for-the-badge&logo=minecraft&logoColor=white)
