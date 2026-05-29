@@ -1,10 +1,18 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Noldez&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Discord%20Bots%20%7C%20Minecraft%20Plugins%20%7C%20Cybersec&descAlignY=58&descSize=16&descColor=a9b1d6)
+
+<img src="https://github.com/Noldez.png" width="100" style="border-radius:50%"/>
+
 I write code. Mostly JavaScript, but I'll reach for whatever gets the job done —
 Java for Minecraft plugins, Lua for game scripting, SQL when data needs structure.
 
-I've shipped websites, Discord bots, and full Minecraft game servers.
-I like owning the whole thing.
+I've shipped websites, Discord bots, and full Minecraft game server ecosystems.
+I like owning the whole thing — design, backend, database, server config.
+
+[![Top Langs](https://test-three-orpin-83.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Noldez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -77,12 +85,4 @@ I like owning the whole thing.
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Noldez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://test-three-orpin-83.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer)
