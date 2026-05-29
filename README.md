@@ -1,14 +1,22 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Noldez&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Discord%20Bots%20%7C%20Minecraft%20Plugins%20%7C%20Cybersec&descAlignY=58&descSize=16&descColor=a9b1d6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Discord%20Bots%20%7C%20Minecraft%20Plugins%20%7C%20Cybersec&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
 
-<img src="https://github.com/Noldez.png" width="100" style="border-radius:50%"/>
+<img src="https://github.com/Noldez.png" width="110" style="border-radius:50%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E040FB&center=true&vCenter=true&width=500&lines=Full-Stack+JavaScript+Developer;Discord+Bot+Engineer;Minecraft+Plugin+Dev;Linux+%2F+Sys+Admin;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
 
 I write code. Mostly JavaScript, but I'll reach for whatever gets the job done —
 Java for Minecraft plugins, Lua for game scripting, SQL when data needs structure.
 
 I've shipped websites, Discord bots, and full Minecraft game server ecosystems.
 I like owning the whole thing — design, backend, database, server config.
+
+<br/>
 
 [![Top Langs](https://test-three-orpin-83.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -85,4 +93,12 @@ I like owning the whole thing — design, backend, database, server config.
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer)
+---
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Noldez/Noldez/output/github-contribution-grid-snake-dark.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:6c00a9,100:0d0d1a&height=120&section=footer)
+
+</div>
