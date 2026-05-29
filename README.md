@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Discord%20%C2%B7%20Minecraft%20%C2%B7%20FiveM&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
 
-![](https://komarev.com/ghpvc/?username=Noldez&style=for-the-badge&color=6c00a9&label=PROFILE+VIEWS)
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=E040FB&center=true&vCenter=true&width=500&lines=watching+anime+instead+of+fixing+bugs;git+push+--force+%F0%9F%98%88;caffeine-driven+development;ngl+the+code+works+tho;touch+grass%3F+nah)](https://git.io/typing-svg)
