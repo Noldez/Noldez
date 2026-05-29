@@ -16,7 +16,7 @@ I like owning the whole thing - design, backend, database, server config.
 
 <br/>
 
-<marquee behavior="scroll" direction="left" scrollamount="4">🌸 &nbsp; javascript &nbsp; · &nbsp; typescript &nbsp; · &nbsp; next.js &nbsp; · &nbsp; node.js &nbsp; · &nbsp; java &nbsp; · &nbsp; lua &nbsp; · &nbsp; fivem &nbsp; · &nbsp; minecraft &nbsp; · &nbsp; discord bots &nbsp; · &nbsp; linux &nbsp; · &nbsp; cybersec &nbsp; · &nbsp; redis &nbsp; · &nbsp; mongodb &nbsp; · &nbsp; docker &nbsp; &nbsp; 🌸</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="8">🌸 &nbsp; javascript &nbsp; · &nbsp; typescript &nbsp; · &nbsp; next.js &nbsp; · &nbsp; node.js &nbsp; · &nbsp; java &nbsp; · &nbsp; lua &nbsp; · &nbsp; fivem &nbsp; · &nbsp; minecraft &nbsp; · &nbsp; discord bots &nbsp; · &nbsp; linux &nbsp; · &nbsp; cybersec &nbsp; · &nbsp; redis &nbsp; · &nbsp; mongodb &nbsp; · &nbsp; docker &nbsp; &nbsp; 🌸</marquee>
 
 <br/>
 
