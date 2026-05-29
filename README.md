@@ -96,8 +96,23 @@ I like owning the whole thing - design, backend, database, server config.
 
 ---
 
-<div align="center">
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25"/> Projects
 
+| Project | Description |
+|---|---|
+| [**cstema.lt**](https://cstema.lt) | Web project |
+| [**koridorius.lt**](https://koridorius.lt) | Web project |
+| **VoxelForge** | Freelance Minecraft server - coming soon |
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Paper%20Lantern.png" width="25"/> Contact
+
+![Discord](https://img.shields.io/badge/noldez-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:6c00a9,100:0d0d1a&height=120&section=footer)
 
