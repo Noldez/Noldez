@@ -1,87 +1,77 @@
 <div align="center">
 
-# Hey, I'm Noldez 👋
+# Noldez
 
-**Full-Stack Developer · Discord Bot Engineer · Minecraft Plugin Dev**
+I write code. Mostly JavaScript, but I'll reach for whatever gets the job done —
+Java for Minecraft plugins, Lua for game scripting, SQL when data needs structure.
 
-*I build websites, bots, game plugins, and everything in between.*
+I've shipped websites, Discord bots, and full Minecraft game server ecosystems.
+I like owning the whole thing — design, backend, database, server config.
 
 </div>
 
 ---
 
-## About Me
-
-- Full-stack JavaScript developer — from UI to server to database
-- Building custom **Minecraft plugins** (Java + Lua) and full game server ecosystems
-- Creating **Discord bots** for communities — automation, moderation, games, integrations
-- Developing **websites & web apps** with modern stacks
-- Interested in **networking**, self-hosting, and infrastructure
-
----
-
-## Tech Stack
-
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Databases**
+### Databases & Storage
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Platforms**
+### Infrastructure & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Discord & Minecraft
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Paper-ED8106?style=flat-square&logo=minecraft&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua_Scripting-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ---
 
-## What I Build
+### What I've built
 
-| Area | Details |
-|---|---|
-| **Web Apps** | Full-stack apps with Next.js, REST APIs, auth, dashboards |
-| **Discord Bots** | Custom bots — economy systems, moderation, integrations |
-| **Minecraft Plugins** | Java plugins, Lua scripting, custom game mechanics, NPC systems |
-| **Networking & Infra** | Self-hosted servers, reverse proxies, VPNs, Linux admin |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Noldez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noldez&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- **Websites & web apps** — full-stack Next.js apps, dashboards, landing pages, auth flows
+- **Discord bots** — economy systems, moderation, role automation, API integrations
+- **Minecraft plugins** — custom game mechanics, NPC systems, quest engines, economy plugins
+- **Server infra** — self-hosted Linux servers, reverse proxies, networking, VPNs, domain routing
 
 ---
 
 <div align="center">
 
-*Open to collaborations and interesting projects.*
+[![GitHub Streak](https://streak-stats.demolab.com?user=Noldez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noldez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
