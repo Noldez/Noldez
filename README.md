@@ -1,10 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Discord%20Bots%20%7C%20Minecraft%20Plugins%20%7C%20Cybersec&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
-
-<img src="https://github.com/Noldez.png" width="110" style="border-radius:50%"/>
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Discord%20%C2%B7%20Minecraft%20%C2%B7%20FiveM&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E040FB&center=true&vCenter=true&width=500&lines=Full-Stack+JavaScript+Developer;Discord+Bot+Engineer;Minecraft+Plugin+Dev;Linux+%2F+Sys+Admin;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
@@ -85,13 +81,15 @@ I like owning the whole thing — design, backend, database, server config.
 ![Hydra](https://img.shields.io/badge/Hydra-333333?style=flat-square&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
 
-### Discord & Minecraft
+### Discord · Minecraft · FiveM
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Paper-ED8106?style=flat-square&logo=minecraft&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_Plugin_Dev-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua_Scripting-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ---
 
