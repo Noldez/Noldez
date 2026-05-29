@@ -42,14 +42,24 @@ I like owning the whole thing — design, backend, database, server config.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Infrastructure & Tools
+### Infrastructure & Sys Administration
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%20%2F%20iptables-E95420?style=flat-square&logo=linux&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-CC0000?style=flat-square&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron%20%2F%20systemd-4D4D4D?style=flat-square&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ### Cybersecurity
 
@@ -75,7 +85,8 @@ I like owning the whole thing — design, backend, database, server config.
 - **Websites & web apps** — full-stack Next.js apps, dashboards, landing pages, auth flows
 - **Discord bots** — economy systems, moderation, role automation, API integrations
 - **Minecraft plugins** — custom game mechanics, NPC systems, quest engines, economy plugins
-- **Server infra** — self-hosted Linux servers, reverse proxies, networking, VPNs, domain routing
+- **Sys administration** — Linux & Windows Server, service management, firewalls, automation scripts, user/permission management
+- **Server infra** — self-hosted servers, reverse proxies, networking, VPNs, domain routing, Proxmox VMs
 - **Cybersecurity** — network recon, web app pentesting, password cracking, CTFs
 
 ---
