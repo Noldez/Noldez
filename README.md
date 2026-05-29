@@ -81,17 +81,6 @@ I like owning the whole thing — design, backend, database, server config.
 
 ---
 
-### What I've built
-
-- **Websites & web apps** — full-stack Next.js apps, dashboards, landing pages, auth flows
-- **Discord bots** — economy systems, moderation, role automation, API integrations
-- **Minecraft plugins** — custom game mechanics, NPC systems, quest engines, economy plugins
-- **Sys administration** — Linux & Windows Server, service management, firewalls, automation scripts, user/permission management
-- **Server infra** — self-hosted servers, reverse proxies, networking, VPNs, domain routing, Proxmox VMs
-- **Cybersecurity** — network recon, web app pentesting, password cracking, CTFs
-
----
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Noldez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
