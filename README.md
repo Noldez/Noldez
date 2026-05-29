@@ -63,7 +63,6 @@ I like owning the whole thing — design, backend, database, server config.
 
 ### Cybersecurity
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -76,7 +75,9 @@ I like owning the whole thing — design, backend, database, server config.
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Paper-ED8106?style=flat-square&logo=minecraft&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua_Scripting-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java_Plugin_Dev-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ---
 
