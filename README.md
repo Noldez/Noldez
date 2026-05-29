@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Discord%20%C2%B7%20Minecraft%20%C2%B7%20FiveM&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
 
+![](https://komarev.com/ghpvc/?username=Noldez&style=for-the-badge&color=6c00a9&label=PROFILE+VIEWS)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=E040FB&center=true&vCenter=true&width=500&lines=watching+anime+instead+of+fixing+bugs;git+push+--force+%F0%9F%98%88;caffeine-driven+development;ngl+the+code+works+tho;touch+grass%3F+nah)](https://git.io/typing-svg)
+
 <br/>
 
 I write code. Mostly JavaScript, but I'll reach for whatever gets the job done -
@@ -9,6 +15,10 @@ Java for Minecraft plugins, Lua for game scripting, SQL when data needs structur
 
 I've shipped websites, Discord bots, and full Minecraft servers.
 I like owning the whole thing - design, backend, database, server config.
+
+<br/>
+
+<marquee behavior="scroll" direction="left" scrollamount="4">🌸 &nbsp; javascript &nbsp; · &nbsp; typescript &nbsp; · &nbsp; next.js &nbsp; · &nbsp; node.js &nbsp; · &nbsp; java &nbsp; · &nbsp; lua &nbsp; · &nbsp; fivem &nbsp; · &nbsp; minecraft &nbsp; · &nbsp; discord bots &nbsp; · &nbsp; linux &nbsp; · &nbsp; cybersec &nbsp; · &nbsp; redis &nbsp; · &nbsp; mongodb &nbsp; · &nbsp; docker &nbsp; &nbsp; 🌸</marquee>
 
 <br/>
 
@@ -20,7 +30,7 @@ I like owning the whole thing - design, backend, database, server config.
 
 ---
 
-### 言語 &nbsp;·&nbsp; Languages
+### ⚔️ Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,20 +39,20 @@ I like owning the whole thing - design, backend, database, server config.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### フロントエンド &nbsp;·&nbsp; Frontend
+### 🎨 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### バックエンド &nbsp;·&nbsp; Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### データベース &nbsp;·&nbsp; Databases
+### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +60,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### インフラ &nbsp;·&nbsp; Infrastructure & Sysadmin
+### 🛡️ Infrastructure & Sysadmin
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -69,7 +79,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Cron](https://img.shields.io/badge/Cron%20%2F%20systemd-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### セキュリティ &nbsp;·&nbsp; Cybersecurity
+### 🔓 Cybersecurity
 
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -79,7 +89,7 @@ I like owning the whole thing - design, backend, database, server config.
 ![Hydra](https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
 
-### ゲーム開発 &nbsp;·&nbsp; Discord · Minecraft · FiveM
+### 🎮 Discord · Minecraft · FiveM
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot%20%2F%20Paper-ED8106?style=for-the-badge&logo=minecraft&logoColor=white)
@@ -92,6 +102,8 @@ I like owning the whole thing - design, backend, database, server config.
 ---
 
 <div align="center">
+
+<img src="./sakura.svg" width="100%"/>
 
 ![snake](https://raw.githubusercontent.com/Noldez/Noldez/output/github-contribution-grid-snake-dark.svg)
 
