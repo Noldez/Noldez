@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Discord%20%C2%B7%20Minecraft%20%C2%B7%20FiveM&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:6c00a9,100:ff006e&height=220&section=header&text=ただし&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=&descAlignY=58&descSize=16&descColor=e0aaff&animation=fadeIn)
 
 <br/>
 
