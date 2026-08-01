@@ -15,15 +15,6 @@
 
 </div>
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25"/> Projects
-
-[![cstema.lt](https://img.shields.io/badge/cstema.lt-CS2%20Game%20Servers-FF6B35?style=for-the-badge&logoColor=white)](https://cstema.lt)
-[![koridorius.lt](https://img.shields.io/badge/koridorius.lt-Minecraft%20Server-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)](https://koridorius.lt)
-[![mctema.lt](https://img.shields.io/badge/mctema.lt-Minecraft%20Server-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)](https://mctema.lt)
-[![rifttale.com](https://img.shields.io/badge/rifttale.com-Minecraft%20Server-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white)](https://rifttale.com)
-![VoxelForge](https://img.shields.io/badge/VoxelForge-Minecraft%20Freelance%20·%20Coming%20Soon-6c00a9?style=for-the-badge&logo=minecraft&logoColor=white)
-
 ![Discord](https://img.shields.io/badge/noldez-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
